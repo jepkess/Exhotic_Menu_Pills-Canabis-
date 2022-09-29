@@ -1,6 +1,6 @@
 ## Exhotic_Menu_Pills_Canabis
 ## Description
-This is  a portfolio page containing all about me.
+
 ## Demo
 
 
